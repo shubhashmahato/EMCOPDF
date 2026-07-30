@@ -1,0 +1,6 @@
+{
+  "name": "EMCOPDF",
+  "description": "Professional offline PDF page editing, split, merge, rotation, reorganization, and export web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
